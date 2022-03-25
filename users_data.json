@@ -1,0 +1,25 @@
+{
+    "users_details": [
+        {
+            "FirstName": "asmaa",
+            "LastName": "mohamed",
+            "Email": "asmaa@gmail.com",
+            "Phone": "01093693045",
+            "Password": "123456"
+        },
+        {
+            "FirstName": "ahmed",
+            "LastName": "mohamed",
+            "Email": "ahmed@gmail.com",
+            "Phone": "01236034027",
+            "Password": "123"
+        },
+        {
+            "FirstName": "nora",
+            "LastName": "alaa",
+            "Email": "nora@gmail.com",
+            "Phone": "01156367896",
+            "Password": "123"
+        }
+    ]
+}
